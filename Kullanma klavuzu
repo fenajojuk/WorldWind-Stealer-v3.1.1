@@ -1,0 +1,7 @@
+Nasıl kullanılır?
+
+Açtığınızda .. botnet virüsünüzü oluşturacaksınız . 2 şey gerektirir:
+-BOT API TOKEN: @
+Botfather'a gidin ve bir telgraf botu oluşturun ve ardından api'yi ilk kutuya koyun
+-Chat ID: @chatid_echo_bot'tan sohbet kimliğinizi alın ve 2. kutuya yapıştırın
+-Sonra gidin onu oluşturduğunuz ve başlattığınız telgraf botunuz - virüsünüzü oluşturun ve yayın ve sonucunuzu botunuzda alacaksınız
