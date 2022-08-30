@@ -1,7 +1,11 @@
 # WorldWind-Stealer-v3.1.
 WorldWind Stealer v3.1.1 Cracked | Logs+CCs+Webcam+Crypto v3.1.1
 
-BU UYGULAMA SADECE EĞİTİM AMAÇLIDIR. BAŞKA HERHANGİ BİR KULLANIMI YAPICI TARAFINDAN TAMAMEN YASAKTIR.
+# Sorumluluk reddi
+
+* Bu yazılımla ilgili hiçbir garanti sağlamaz ve bu aracın kullanımından kaynaklanan doğrudan veya dolaylı hiçbir hasardan sorumlu olmayacaktır.
+* BU UYGULAMA SADECE EĞİTİM AMAÇLIDIR. BAŞKA HERHANGİ BİR KULLANIMI YAPICI TARAFINDAN TAMAMEN YASAKTIR.!
+* Kendi Riskinizde Kullanın.
 
  Hakkında
  ---------------------------------------------------------
